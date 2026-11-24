@@ -6,6 +6,11 @@ I build Python and SQL projects to clean, transform, analyze, and present data.
 
 ## Featured projects
 
+### [SQL Data Warehouse and Analytics](https://github.com/RubinRoy7/sql-data-warehouse-project)
+A SQL Server warehouse using Bronze, Silver, and Gold layers to ingest and standardize sample CRM/ERP data, create customer and product dimensions with sales analytics, and run data-quality checks. Based on a tutorial project; original attribution and MIT license are retained.
+
+**Tools:** SQL Server, T-SQL, ETL, dimensional modeling, data quality
+
 ### [Weather & Air Quality ETL](https://github.com/RubinRoy7/weather_ETL)
 A Python and SQL Server pipeline that ingests weather and air-quality data, validates records, logs each load, and aggregates hourly readings into daily metrics.
 
